@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GradApplication</string>
+    <string name="title_activity_speech_to_sign">SpeechToSignActivity</string>
+    <string name="title_activity_sign_to_speech">SignToSpeechActivity</string>
+</resources>
